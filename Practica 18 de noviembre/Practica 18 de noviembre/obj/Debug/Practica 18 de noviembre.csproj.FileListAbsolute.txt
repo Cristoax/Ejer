@@ -1,0 +1,11 @@
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\bin\Debug\Practica 18 de noviembre.exe.config
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\bin\Debug\Practica 18 de noviembre.exe
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\bin\Debug\Practica 18 de noviembre.pdb
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica 18 de noviembre.csproj.AssemblyReference.cache
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica 18 de noviembre.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica_18_de_noviembre.Form1.resources
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica_18_de_noviembre.Properties.Resources.resources
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica 18 de noviembre.csproj.GenerateResource.cache
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica 18 de noviembre.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica 18 de noviembre.exe
+C:\Users\labc201\Documents\sem13\Practica 18 de noviembre\Practica 18 de noviembre\obj\Debug\Practica 18 de noviembre.pdb
